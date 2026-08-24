@@ -1,0 +1,55 @@
+cff-version: 1.2.0
+message: "If you use this code or data, please cite the paper below."
+title: "Digital Consumption and Political Alignment: Evidence from Mobile Data Across Two European Elections in France"
+abstract: >-
+  Code and commune-level analytical data for a population-scale study relating
+  mobile digital-service consumption to political alignment across the 2019 and
+  2024 European elections in metropolitan France, using Dirichlet regression on
+  per-commune scaled revealed comparative advantage (sRCA) of mobile services.
+authors:
+  - family-names: "Martínez-Durive"
+    given-names: "Orlando E."
+    affiliation: "IMDEA Networks Institute"
+  - family-names: "Úcar"
+    given-names: "Iñaki"
+    affiliation: "Universidad Carlos III de Madrid"
+  - family-names: "Smoreda"
+    given-names: "Zbigniew"
+    affiliation: "Orange Research"
+  - family-names: "Moro"
+    given-names: "Esteban"
+    affiliation: "Northeastern University"
+  - family-names: "Fiore"
+    given-names: "Marco"
+    affiliation: "IMDEA Networks Institute"
+license: "CC-BY-NC-SA-4.0"
+repository-code: "https://github.com/nds-group/digital-consumption-political-alignment-france"
+preferred-citation:
+  type: conference-paper
+  title: "Digital Consumption and Political Alignment: Evidence from Mobile Data Across Two European Elections in France"
+  authors:
+    - family-names: "Martínez-Durive"
+      given-names: "Orlando E."
+      affiliation: "IMDEA Networks Institute"
+    - family-names: "Úcar"
+      given-names: "Iñaki"
+      affiliation: "Universidad Carlos III de Madrid"
+    - family-names: "Smoreda"
+      given-names: "Zbigniew"
+      affiliation: "Orange Research"
+    - family-names: "Moro"
+      given-names: "Esteban"
+      affiliation: "Northeastern University"
+    - family-names: "Fiore"
+      given-names: "Marco"
+      affiliation: "IMDEA Networks Institute"
+  collection-title: "Proceedings of the 2026 ACM Internet Measurement Conference (IMC '26)"
+  conference:
+    name: "ACM Internet Measurement Conference (IMC '26)"
+    city: "Karlsruhe"
+    country: "DE"
+  year: 2026
+  month: 10
+  publisher:
+    name: "Association for Computing Machinery"
+  doi: "10.1145/3777912.3839827"

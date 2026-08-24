@@ -1,0 +1,38 @@
+# Python / Jupyter / R junk
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.DS_Store
+.venv/
+venv/
+.Rhistory
+.RData
+
+# --- Data policy ---------------------------------------------------------------
+# Confidential mobile-network traffic is NEVER shared. Large public sources
+# (INSEE, IGN, Ministry of the Interior, ParlGov) are re-downloadable, not shipped.
+# Ignore everything under data/, keep the folder skeleton, and WHITELIST only the
+# commune-level sRCA analytical tables (the reproduction entry point).
+data/**
+!data/
+!data/**/
+!data/**/.gitkeep
+!data/**/NOTE.md
+!data/dirichlet/df_data_europe_*.csv
+# WHITELIST: small public boundary GeoJSON (France + city outlines) for the map figures
+!data/france_shape/*.geojson
+# WHITELIST: commune urban/rural classification + party metadata (small, public)
+!data/carto/communes_urban_rural.csv
+!data/parties_description/*.json
+!data/parties_description/parlgov_parties_france_*.csv
+
+# Large binaries anywhere (belt-and-suspenders — never commit raw/derived data)
+*.pkl
+*.parquet
+*.gz
+*.bz2
+*.shp
+*.dbf
+*.shx
+*.xls
+*.xlsx

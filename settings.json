@@ -1,0 +1,8 @@
+{
+    "WORKING_DIR": ".",
+    "DATA_DIR": "./data",
+    "IMAGE_DIR": "./images",
+    "DIRICHLET_DIR": "./data/dirichlet",
+    "ELECTION_YEARS": [2019, 2024],
+    "TIME_WINDOWS": ["full", "07_13", "07_20", "13_20", "20_07"]
+}

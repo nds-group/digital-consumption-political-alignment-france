@@ -1,0 +1,135 @@
+{
+    "LFI": {
+        "short_name": "France\nInsoumise",
+        "name": "La France Insoumise",
+        "name_list": "La France insoumise - Union populaire",
+        "head_list": "Manon Aubry",
+        "list_number": 4,
+        "lr_score": 1.3,
+        "%votes": 9.89,
+        "seats": 9,
+        "color": "#b40032",
+        "symbol": "s",
+        "url": "https://lafranceinsoumise.fr/"
+    },
+    "EELV": {
+        "short_name": "Europe \u00c9cologie",
+        "name": "Europe \u00c9cologie",
+        "name_list": "Europe \u00c9cologie",
+        "head_list": "Marie Toussaint",
+        "list_number": 6,
+        "lr_score": 3.155,
+        "%votes": 5.5,
+        "seats": 5,
+        "color": "#79b41d",
+        "symbol": "8",
+        "url": "https://europeecologie.eu/"
+    },
+    "RE_coal": {
+        "short_name": "Coal.\nR\u00e9veiller",
+        "name": "Coal. R\u00e9veiller l'Europe",
+        "list_name": "R\u00e9veiller l'Europe",
+        "head_list": "Rapha\u00ebl Glucksmann",
+        "list_number": 27,
+        "lr_score": 3.24,
+        "%votes": 13.83,
+        "seats": 13,
+        "color": "#ED1651",
+        "symbol": "D",
+        "parties": {
+            "PS": {
+                "name": "Parti Socialiste",
+                "lr_score": 3.2493
+            },
+            "PP": {
+                "name": "Place publique",
+                "lr_score": null
+            }
+        },
+        "url": "https://www.glucksmann2024.eu/"
+    },
+    "BE_coal": {
+        "short_name": "Coal.\nBesoin d'Europe",
+        "name": "Coal. Besoin d'Europe",
+        "list_name": "Besoin d'Europe",
+        "head_list": "Val\u00e9rie Hayer",
+        "list_number": 11,
+        "lr_score": 6.125425,
+        "%votes": 14.6,
+        "seat": 13,
+        "color": "#FFD600",
+        "symbol": "o",
+        "parties": {
+            "REM": {
+                "name": "La R\u00e9publique en marche",
+                "lr_score": 6.0
+            },
+            "MoDem": {
+                "name": "Mouvement d\u00e9mocrate",
+                "lr_score": 6.1017
+            },
+            "Horizons": {
+                "name": "Horizons",
+                "lr_score": 6.0
+            },
+            "UDI": {
+                "name": "Union des d\u00e9mocrates et ind\u00e9pendants",
+                "lr_score": 7.4
+            },
+            "PR": {
+                "name": "Parti Radical",
+                "lr_score": 5.0
+            },
+            "url": "https://www.besoindeurope.fr/"
+        }
+    },
+    "LR": {
+        "short_name": "Les R\u00e9publicains",
+        "name": "Les R\u00e9publicains",
+        "name_list": "La droite pour faire entendre la voix de la France en Europe",
+        "head_list": "Fran\u00e7ois-Xavier Bellamy",
+        "list_number": 18,
+        "lr_score": 7.4997,
+        "%votes": 7.25,
+        "seats": 6,
+        "color": "#206bd9",
+        "symbol": "D",
+        "url": "https://republicains.fr/"
+    },
+    "FF_coal": {
+        "short_name": "Coal.\nLa France fi\u00e8re",
+        "name": "Coal. La France fi\u00e8re",
+        "list_name": "La France fi\u00e8re, men\u00e9e par Marion Mar\u00e9chal et soutenue par \u00c9ric Zemmour",
+        "head_list": "Marion Mar\u00e9chal",
+        "list_number": 3,
+        "lr_score": 8.1318,
+        "%votes": 5.47,
+        "seats": 5,
+        "color": "#170066",
+        "symbol": "+",
+        "parties": {
+            "REC": {
+                "name": "Reconqu\u00eate!",
+                "lr_score": 8.7
+            },
+            "CNIP": {
+                "name": "",
+                "lr_score": 7.5636
+            }
+        },
+        "url": "https://www.parti-reconquete.fr/"
+    },
+    "RN": {
+        "short_name": "Rassemblement\nNational",
+        "name": "Rassemblement National",
+        "list_name": "La France revient! Avec Jordan Bardella et Marine le Pen",
+        "head_list": "Jordan Bardella",
+        "list_number": 5,
+        "lr_score": 9.6854,
+        "%votes": 31.37,
+        "seats": 30,
+        "color": "#254671",
+        "symbol": "s",
+        "url": "https://rassemblementnational.fr/"
+    }
+}

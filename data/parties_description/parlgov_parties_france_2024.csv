@@ -1,0 +1,81 @@
+,party_name_short,party_name_english,party_name,family_name_short,family_name,lr_score
+563,AC,Centrist Alliance,Alliance centriste,lib,Liberal,6.0
+564,ALP,Liberal People's Action,Action libérale populaire,chr,Christian democracy,6.2
+565,AO,Alliance of the Overseas,Alliances des outre-mers,com,Communist/Socialist,1.3
+566,ARS,Republican and Social Action,Action républicaine et sociale,con,Conservative,7.4
+567,Agir,"Act, the constructive right","Agir, la droite constructive",con,Conservative,7.4
+568,C,Conservatives,Conservateurs,con,Conservative,7.4
+569,CD,Democratic Centre,Centre démocrat,chr,Christian democracy,5.7216
+570,CDP,Centre Democracy and Progress,Centre démocratie et progrés,chr,Christian democracy,5.8695
+571,CDS,Centre of Social Democrats,Centre des démocrates sociaux,chr,Christian democracy,6.2
+572,CNIP,National Centre of Independents and Peasants [Conservatives],Centre national des indépendants et paysans,con,Conservative,7.5636
+573,CPNT,"Hunting, Fishing, Nature, Tradition","Chasse, pêche, nature, traditions",agr,Agrarian,7.8
+574,CeD,Centre Right,Centre-droit,con,Conservative,7.4
+575,CeG,Centre Left,Centre-gauche,soc,Social democracy,3.3
+576,DLR|DLF,Republic Arise | France Arise,Debout la république | Debout la France,con,Conservative,7.4
+577,FI,Unbowed France,La France Insoumise,com,Communist/Socialist,1.3
+578,FN,National Rally,Rassemblement National ,right,Right-wing,9.6854
+579,G,Gaullists,Gaulliste,con,Conservative,8.2
+580,GDR,Democratic and Republican Left,Gauche démocrate et républicaine,com,Communist/Socialist,1.3
+581,GE,Ecology Generation,Generation écologie,eco,Green/Ecologist,3.6389
+582,Gs,"Generation.s, the movement","Génération.s, le mouvement",soc,Social democracy,3.3
+583,H,Horizons,Horizons,lib,Liberal,6.0
+584,IOM,Overseas Independents,Indépendants d'outre-mer,spec,Special issue,
+585,IR|DL,Independent Republicans | Liberal Democracy,Independants républicains | Démocratie libérale,con,Conservative,7.0577
+586,LCR,Revolutionary Communist League,Ligue communiste révolutionnaire,com,Communist/Socialist,0.0714
+587,LO,Workers' Struggle,Lutte ouvrière,com,Communist/Socialist,0.0
+588,MDC,Citizens' Movement,Mouvement des citoyens,com,Communist/Socialist,1.3
+589,MF,Movement for France,Mouvement pour la France,con,Conservative,8.1721
+590,MIM,Martinican Independence Movement,Mouvement independantiste martiniquais,spec,Special issue,
+591,MNR,National Republican Movement,Mouvement national républicain,right,Right-wing,8.2786
+592,MP,Party of Presidential Majority,Parti de la Majorité présidentielle,com,Communist/Socialist,1.3
+593,MR,Reformers Movement,Mouvement réformateur,chr,Christian democracy,5.8695
+594,MRP,Popular Republican Movement,Mouvement républicain populaire,chr,Christian democracy,8.2
+595,NC,New Centre,Nouveau centre,lib,Liberal,6.0
+596,PA,Animalist Party,Parti animaliste,spec,Special issue,
+597,PCF,French Communist Party,Parti communiste française,com,Communist/Socialist,1.3741
+598,PDP,Popular Democratic Party,Parti démocrate populaire,chr,Christian democracy,6.2
+599,PE,Ecologist Party,Parti écologiste,eco,Green/Ecologist,2.5
+600,PFN,Party of New Forces,Parti des forces nouvelles,right,Right-wing,9.8
+601,PR,Radical Socialist Party,Parti radical-socialiste ,con,Conservative,3.9896
+602,PRG,Radical Party of the Left,Parti radical de gauche,soc,Social democracy,4.0813
+603,PRL,Conservatives,Parti républicain de la liberté,con,Conservative,7.5636
+604,PS,Socialist Party,Parti socialiste,soc,Social democracy,3.2493
+605,PSF,French Socialist Party,Parti socialiste français,soc,Social democracy,3.3
+606,PSU,Unified Socialist Party,Parti socialiste unifie,com,Communist/Socialist,1.3
+607,PSdF,Socialist Party of France -- Jean Jaures Union,Parti socialiste de France – Union Jean Jaurès,soc,Social democracy,3.3
+608,PUP, Proletarian Unity Party,Parti de l'Unité Prolétarienne,com,Communist/Socialist,1.3
+609,R!,Reconquest,Reconquête,right,Right-wing,8.7
+610,RDA,African Democratic Rally,Rassemblement démocratique Africain,com,Communist/Socialist,1.3
+611,REM|R,The Republic Onwards! | Renaissance,La République En Marche! | Renaissance,lib,Liberal,6.0
+612,RGR,Rally of Republican Lefts,Rassemblement des gauches républicaines,con,Conservative,7.4
+613,RI,Independent Radicals,Radicaux indépendants,con,Conservative,7.4
+614,RP,Progressive Republicans,Républicains progressistes,con,Conservative,7.4
+615,RPF,Rally for France,Rassemblement pour la France,con,Conservative,7.4
+616,RPR,Rally for the Republic,Rassemblement pour la république,con,Conservative,7.4997
+617,RPR+UDF,RPR/UDF connected list,Listes communes RPR/UDF,con,Conservative,7.4
+618,RS,Republican Socialist Party,Parti républicain socialiste,soc,Social democracy,3.3
+619,Rep,Republicans,Republicans,lib,Liberal,6.0
+620,RepG,Left Republican ,Républicaine gauche ,lib,Liberal,6.0
+621,SI,Independent Socialists,Socialistes indépendants,com,Communist/Socialist,1.3
+622,TPA,Three Parties Alliance -- Third Force,Tripartisme – Troisième force,soc,Social democracy,3.3
+623,U5R,Union for the fifth republic,Union pour la cinquième république,con,Conservative,7.4
+624,UDCA,Union for the Defence of Traders and Artisans -- Poujadists,Union de défense des commerçants et artisans – Poujadists,con,Conservative,7.4
+625,UDF|MD,Union for French Democracy | Democratic Movement,Union pour la démocratie française | Mouvement démocrate,con,Conservative,6.1017
+626,UDI,Union of Democrats and Independents,Union des démocrates et indépendants,con,Conservative,7.4
+627,UDSR,Democratic and Socialist Union of the Resistance,Union démocratique et socialiste de la Résistance,soc,Social democracy,3.3
+628,UFD,Union of Democratic Forces,Union des forces démocratiques,soc,Social democracy,3.3
+629,UMP|LR,Union for a Popular Movement | The Republicans,Union pour un mouvement populaire | Les Républicains,con,Conservative,7.4997
+630,UPR,Popular Republican Union,Union Populaire Républicaine,con,Conservative,7.4
+631,UR,Republican Union,Union républicaine,right,Right-wing,8.7
+632,V,Greens,Les Verts,eco,Green/Ecologist,3.155
+633,d-centre,other centre,divers centre,lib,Liberal,6.0
+634,d-droite,other right,divers droite,con,Conservative,7.6583
+635,d-eco,other ecologists,divers ecologistes,eco,Green/Ecologist,2.5
+636,d-gauche,other left,divers gauche,soc,Social democracy,3.3
+637,etc,others,divers,none,no family,
+638,ex-dro,other far-right,extrême droite,right,Right-wing,8.7
+639,ex-gau,other far-left,extrême gauche,com,Communist/Socialist,1.3
+640,no-seat,no seat,no seat,none,no family,
+641,none,no party affiliation,sans étiquette,none,no family,
+642,one-seat,one seat,one seat,none,no family,
